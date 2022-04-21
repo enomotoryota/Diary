@@ -4,19 +4,19 @@
 
 3/26~4/4
 
-## WEB制作  (14日)
+## WEB制作 SASS  (14日)
 
 4/4~4/17
 
-## SASS  (14日)
+## javascript  (21日)
 
 4/18~5/1
 
-## javascript  (21日)
+## typescript1  (21日)
 
 5/2~5/22
 
-## typescript  (21日)
+## typescript2  (21日)
 
 5/23~6/12
 
@@ -52,12 +52,11 @@
 
 19時50分　　帰宅
 
-
 ## 目標体重
 
 77kg→74kg
 
 ## 目標カリキュラム
 
-sass完了
+web,sass,javascript1-1~7-1
 
