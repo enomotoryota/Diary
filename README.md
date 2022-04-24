@@ -8,11 +8,11 @@
 
 4/4~4/17
 
-## javascript  (21日)
+## javascript1  (21日)
 
 4/18~5/1
 
-## typescript1  (21日)
+## javascript12 & typescript1  (21日)
 
 5/2~5/22
 
@@ -59,4 +59,3 @@
 ## 目標カリキュラム
 
 web,sass,javascript1-1~7-1
-
