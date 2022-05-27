@@ -2,7 +2,7 @@
 
 5:00 woke up
 
-5:10~5:30 running(30min)
+5:10~5:30 running(20min)
 
 6:00~7:00 curriculum(60min)
 
