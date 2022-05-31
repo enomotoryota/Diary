@@ -45,7 +45,7 @@ exercise(20min).curriculum(2hour).typing(15min)
 
 5/23~6/12
 
-## typescript2  (21日)
+## typescript2  (21日)　OK
 
 6/13~7/3
 
