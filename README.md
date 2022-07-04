@@ -2,64 +2,53 @@
 
 5:00 woke up
 
-5:10~5:30 running(20min)
+5:10~5:30 prepare
 
 6:00~7:00 curriculum(60min)
 
-7:15 breakfast
+7:00 breakfast
 
-7:55 leave home
+8:05 leave home
 
 9:00~18:00 work(curriculum during commuting in train(60min))
 
 19:00 dinner
 
-20:00 typing(15min)
+20:00 curriculum(30min)
 
 20:15~22:00 free
 
 22:00 sleep
 
-exercise(20min).curriculum(2hour).typing(15min)
-
+curriculum(1.5hour)
 
 # 課題スケジュール
 
-## HTML_CSS  (10日) ok
+## HTML_CSS  (10日) no
 
-3/26~4/4
+3/26-4/4 → 4/4-6/2
 
-## WEB制作 SASS  (14日) ok
+## WEB制作 SASS  (14日) no
 
-4/4~4/17
+4/4-4/17 → 4/20-6/25
 
-## javascript1  (21日) ok
+-------------メンター変更-------------
 
-4/18~5/1
+## javascript1  (42日) no
 
-## javascript2 ok
+4/18-5/22 → 6/27-7/30
 
-5/2~5/22
+## typescript1  (42日) no
 
-## typescript1  (21日) ok
+5/23-7/3 → 8/1-8/31
 
-5/23~6/12
+## React1  (42日)
 
-## typescript2  (21日)　OK
-
-6/13~7/3
-
-## React1  (21日)
-
-7/4~7/24
-
-## React2  (21日)
-
-7/25~8/15
+7/4-8/15 → 9/1-9/30
 
 #　開発案件(フロントエンド)
 
-9/1~
+9/1-
 
 # 目標
 
